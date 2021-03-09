@@ -36,7 +36,7 @@ public class Pokemon {
 	}
 	public void move() {
 		System.out.println("cam move.");
-		
+	// great work!	
 	}
 }
 
