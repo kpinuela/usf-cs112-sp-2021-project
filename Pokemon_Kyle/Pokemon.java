@@ -1,3 +1,6 @@
+// Berkeley's Comment: Kyle is an absolute KING. Thank you for doing this and the survey last minute!! ٩(◕‿◕｡)۶
+
+
 package parentclassexercise;
 
 public class Pokemon {
